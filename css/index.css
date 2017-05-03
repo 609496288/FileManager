@@ -1,0 +1,64 @@
+body{
+	background-color: #C2C287;
+}
+.container{
+	border: 2px solid #cccccc;
+	border-radius: 5%;
+	width: 70%;
+	background-color: white;
+	margin-top: 20px;
+}
+.header{
+	margin-top: 10px;
+}
+.logo{
+	overflow: hidden;
+	display: inline;
+	font-size: 20px;
+}
+.logo a{
+	margin-top: 25px;
+}
+.FileManager{
+	margin-top: 20px;
+}
+.menu button{
+	width: 100px;
+	height: 40px;
+	font-size: 16px;
+}
+.menu-nav{
+	margin-top: 20px;
+	margin-left: 10px;
+	overflow: hidden;
+}
+.menu-nav span{
+	font-size: 16px;
+}
+.menu-nav span:last-child{
+	float: right;
+}
+.menu-nav a{
+	text-decoration: none;
+	color: black;
+}
+.file-list{
+	/* border: 1px solid #C0C0C0; */
+	text-align: left;
+	font-size: 15px;
+}
+.menu-select{
+	margin-bottom: 20px;
+}
+.footer{
+	margin-top: 60px;background-color: #333333;text-align: center;height: 50px
+}
+.f{
+	width:300px;color: white;margin: 0 auto;padding-top: 6px
+}
+#search{
+	border: 1px solid gray;width: 100px;height: 25px;
+}
+#search-sub{
+	border: 1px solid gray;height: 23px;
+}
